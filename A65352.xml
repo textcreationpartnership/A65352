@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Webb, alias, Hop-bodee-boody's last will and testament VVho departed this life at his nurses house in Turn-Mill-street, in the 85th. year of his age. VVith his pretty exploits, character, sayings, and epitaph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65352</idno>
+            <idno type="STC">Wing W1203A</idno>
+            <idno type="STC">ESTC R220900</idno>
+            <idno type="EEBO-CITATION">99825017</idno>
+            <idno type="PROQUEST">99825017</idno>
+            <idno type="VID">29379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2102:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Webb, alias, Hop-bodee-boody's last will and testament VVho departed this life at his nurses house in Turn-Mill-street, in the 85th. year of his age. VVith his pretty exploits, character, sayings, and epitaph.</title>
+                  <author>Webb, John, 1674 or 5-1759. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Rosse,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Caption title on p. 3: Hop-bodee-boody's last will and testament, &amp;c.</note>
+                  <note>Dated on p. 7: "this first day of April. 1674", suggesting that the biographical sketch, will, and collection of sayings is an elaborate joke.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Webb, John, 1674 or 5-1759 --  Early works to 1800.</term>
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29379:1"/>
+            <p>
+               <hi>John Webb,</hi> alias, Hop-bodee-boody's LAST Will and Teſtament.</p>
+            <p>VVho departed this Life at his Nurſes Houſe in <hi>Turn-Mill-street,</hi> in the <hi>85th.</hi> year of his Age.</p>
+            <p>VVith his Pretty Exploits, Character, Sayings, and Epitaph.</p>
+            <figure/>
+            <p>Printed for <hi>Richard Roſſe,</hi> in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_biographical_sketch">
+            <pb facs="tcp:29379:2"/>
+            <head>
+               <hi>Hop-bodee-body</hi>'s laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, &amp;c.</head>
+            <p>
+               <hi>THe Famous</hi> Hopodeeboody, <hi>(whoſe Life we now intend to Write; for the Information of the pre<g ref="char:EOLhyphen"/>ſent and future Ages, and diverſe other good cauſes and valuable Conſiderations) was by birth a true</hi> Cockney, <hi>for ſo the Poet reſolves the point.</hi>
+               <q>
+                  <l>Right <hi>Cockneys</hi> are all thoſe whoſe Birth is found,</l>
+                  <l>Where twanging Clapper of <hi>Bow-Bell</hi> doth ſound.</l>
+               </q>
+            </p>
+            <p>He ſprouted out of the Parſley-bed, and drew his firſt breath on this Globe of Mortality in <hi>Thames-ſtreet</hi> near <hi>Broken-wharf,</hi> a place where you may very Como<g ref="char:EOLhyphen"/>diouſly be Landed from Cuckolds haven, and thence take Water again to rights for the Bench in <hi>Southwark.</hi> His Nativity happened in the Year 1589. We would give you the Scheme, but are loath to deprive the Body of A<g ref="char:EOLhyphen"/>ſtrology of ſo proper an Ornament. However, we find by it and a little Algebra, that 'tis now above fourſcore and five years ago ſince his Patents made uſe of the means to beget him, and truly in that terrible ſullen blu<g ref="char:EOLhyphen"/>ſtering year eighty eight (when the Spaniard came with an Invincible Armado laden with Shovels and Pickaxes to fling all <hi>England</hi> into the Sea) it was very comendably done of this honeſt couple to be ſo kind one to another, and mind the work of Generation, ſome affirm that his Mother when ſhe was big with him was almoſt frighted out of her wits by her Husbands going to <hi>Tilbury</hi> Camp, which by the power of Imagination made ſuch an impreſ<g ref="char:EOLhyphen"/>ſion on the child, that he never had the perfect uſe of reaſon. True it is, that <hi>Mercury</hi> combuſt retrograde and inpitted degrees (bogs of Heaven as one of his Cozens calls them) ſhews weakneſs in the Intellectualls, but there is a critical minute for every one to be happy, and <hi>Jupiter</hi>
+               <pb n="3" facs="tcp:29379:2"/>dignified in the <hi>10th.</hi> aſſures us, that if he had not been ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the way, he might have been one of <hi>Tumble-down-Dick</hi>'s Privy council.</p>
+            <p>He was a thriveing luſty child, till about ſeven or eight years of Age, at which time by misfortune he happened to fall into the fire, which burnt and disfigured him very much, and from thenceforwards he appeared more and more like a Natural in his actions and deportment.</p>
+            <p>Some years after this both his father and mother dyed one ſoon after the other; whilſt they lived, they had all things comfortably about them, he being by Trade a Lime-man and ſhe a Laundreſs; but after their deceaſe their poor Orphan <hi>John VVeb,</hi> (for that was our <hi>Hopbo<g ref="char:EOLhyphen"/>deeboody</hi>'s right Name) Being look'd upon as a ſhiftleſſe creature, is put out to a Nurſe to look after him by the Pariſh; With whom he had not been long, but an odd accident happens, which proved not a little to his da<g ref="char:EOLhyphen"/>mage at preſent, and all his Nurſes loſs in the ſequel. Be<g ref="char:EOLhyphen"/>ing one day wandring abroad, a charitable Gentleman comiſſerating his deplorable ſimplicity gave him a groat, which he being overjoyed at, [for fools are generally fond of money, and indeed 'tis a ſhreud ſign of one to be ſo] runs with it home and ſhows it to his Nurſe, who thinking it too much for any body to give him, fancyed he had ſtoln it, and in that conceit would needs go to whip him, who having eat very liberally that morning of peaſe-porridge, and thereby got a violent looſeneſſe, no ſooner had ſhe got up his coats, and made his Breech ſmart, but fear opening his poſtern-gate, diſcharged a whole ſhovelful of Marmalade into the old VVomans chops, half an hours reſpite ſhe was forced to take to wipe her mouth, and clear her eyes, but then ſhen came upon him more fierce than before, and now it ſeems all
+<pb n="4" facs="tcp:29379:3"/>his Ammunition was ſpent, ſo that being wholly at her mercy, ſhe whipt him beyond all meaſure.
+<q>
+                  <l>The cruel Hagg ſo flogg'd his Buttocks Brawny.</l>
+                  <l>She mixt the purple Gore with ſquitter'd Tawny.</l>
+               </q>
+            </p>
+            <p>So ſore for a long time were his Haunches, that he could never forget it, for from thenceforth to his dying day he would never take any money ſave Farthings and Half-pence; and if any body proferr'd him a piece of ſil<g ref="char:EOLhyphen"/>ver he would not touch it, but run away, and cry: <hi>No Groat, no Groat, Nurſe Hipp'd me once for t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king a Groat;</hi> ſo that he counted all ſilver, Groats, and never beg'd but in this ſtile. <hi>Pay for Dod's ſake gi me one Fardin toten.</hi>
+            </p>
+            <p>When he was about eighteen years of Age, in a very hard froſt, ſeeing great numbers of boys ſliding and hop<g ref="char:EOLhyphen"/>ping upon the Ice at the ſides of the Thames, honeſt ſilly <hi>Jack</hi> would needs make one, but as he was hopping ve<g ref="char:EOLhyphen"/>ry pleaſantly to the great divertiſement of the ſpectators, The Ice on a ſudden broke, and in dropt Peel-garlick all but the head, where he lookt like a Monkey, doing pen<g ref="char:EOLhyphen"/>nance, or a Prickear'd fool holding forth in a Bucking-Tub, but roar'd ſo loud one might have heard hi be<g ref="char:EOLhyphen"/>yond High-gate, till at laſt he was taken out, and becauſe he ſeemed new Chriſtned after the dippers mode, a new name was beſtowed upon him, for ſince this diſaſter was occaſioned by hopping, and that none of his body, but his head could be ſeen, when he was in, an Arch Pickled Rogue that ſtood by, calls him <hi>Hopodeeboody,</hi> a VVord whoſe ſtrange ſound took extreamly amongſt the Boys and rabble: inſomuch that he came generally to be cal'd ſo all his life time, ſo that the very children were wont to ſing up and down the ſtreets.
+<q>
+                  <l>
+                     <hi>Hopbodeeboody</hi> with his long Locks,</l>
+                  <l>Out of the Pillery, into the Stocks.</l>
+               </q>
+            </p>
+            <pb n="5" facs="tcp:29379:3"/>
+            <p> Others ſay that being much addicted to hopping in his youth, but ſo unfortunate, that he always tumbled down with it, people called at firſt <hi>Hopping Booby,</hi> which in time by corruption became <hi>Hopodeeboody,</hi> but which is the true Etymology we muſt refet to the Antiquaries to determine and proceed.</p>
+            <p>By this time <hi>Hopodeeboody</hi> was attain'd to a legal age of 21. though not to the years of diſcretion, and being now in his prime he plays a trick which we may well call his Maſter-peice, comming one day in the Winter to Trigg-ſtairs, gazeing on the River which was then at High-water, ſo near, that a ſtrong luſty Waterman fear<g ref="char:EOLhyphen"/>ing he would tumble in, to frighten him takes him up in his Arms, and ſhook him over the water as one would a child, telling him he would drown him, and asking of<g ref="char:EOLhyphen"/>ten, Can you ſwim, ſirrah, can you ſwim. Which made <hi>Hopbody</hi> cry out monſtrouſly, but being ſet down ſafe, he continues ſneaking thereabouts, ſtill meditating a Re<g ref="char:EOLhyphen"/>venge, at laſt ſeeing that Waterman ſtand on the ſtairs heedleſly with his back towards him, he comes ſlily be<g ref="char:EOLhyphen"/>hind him, and with a ſudden thruſt cants him into the Thames, crying aloud to him when he was in. Can you whim, can you whim. And ſo laughing hop'd away as faſt as he could. This is ſo fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from being any fiction, that there is ſcarce an Antient Waterman on the River but will juſtifie it: ſeveral were preſent, by the ſame token one that was going to Launch juſt as the fellow fell in, cry'd, Pox on him, he was made ſuch a hole in the <hi>Thames</hi> I know not how to get my Boat out.</p>
+            <p>He continued there with ſeveral Nurſes till the time of the great Fire, and then was removed to a Nurſe neer Clarken-well, where Jack Adams and he had diverſe in<g ref="char:EOLhyphen"/>terviews, and ſometimes Wars like to be proclaim'd, till
+<pb n="6" facs="tcp:29379:4"/>their mediating Nurſes compoſed all ſudes with half a dozen of nappy Ale, being ſo very old he grew almoſt quite blind of late, and after a tedious ſickneſs departed this life at his Nurſes in Turn-Mill-ſtreet, from whence his body was conveyed in a Coach down to Broken-Wharf, and there enter'd in the Church-yard belonging to that pariſh.</p>
+         </div>
+         <div type="mock_last_will_and_testament">
+            <head>
+               <hi>Hopbodeeboody's</hi> laſt Will and Teſtament.</head>
+            <opener>
+               <salute>
+                  <hi>To all and ſingular the Colledge of fools, whether Naturals, Changlings, Popps, Bubbles, Wiſeacres, Codle-brains, Shut<g ref="char:EOLhyphen"/>tle-skulls, Half-wits, Simpletons, Ninnihamers, or others that ſhall buy theſe preſents</hi> Hopbodeeboody <hi>of</hi> Turn-Mill-ſtreet <hi>Gentleman ſendeth greeting.</hi>
+               </salute>
+            </opener>
+            <p>KNow ye that I the ſaid Hopboddeboody, being wearied with carrying about an uſeleſs bundle of bones for above fourſcore years together, and being now of as ſound and diſpoſing memory as I uſe to be, do make this my laſt Will and Teſtament in manner and form fol<g ref="char:EOLhyphen"/>lowing. Imprimis I bequeath my body to the Pit-hole to be decently buried in Flannel, to prevent my catching cold for the future, and a Whip in my hand to keep away the roguiſh Worms from devouring me. <hi>Item</hi> my Muck<g ref="char:EOLhyphen"/>endars, Bibbs, Half-ſhirts, &amp; all other Linnen of my vvar<g ref="char:EOLhyphen"/>droab I be queath to my dearly beloved Nurſe to ſupply her with Lint and Tinder. <hi>Item</hi> my Mannor of Foolsbury Hall in the pariſh of St. Senſeleſs, I bequeath to the cor<g ref="char:EOLhyphen"/>poration of Gotham and their ſucceſſors for ever. <hi>Item</hi> I give all my Tenements in Knave and Fool Court, to the people call'd Quakers, on condition that they ſhall main<g ref="char:EOLhyphen"/>tain
+<pb n="7" facs="tcp:29379:4"/>Lactures thrice a Week, in praiſe of folly, at their ſanctified new Theatre by Gracious ſtreet. <hi>Item</hi> to all, &amp; every perſon, or perſons that ſhall refuſe Money when they may have it that ſhall be aſhamed to kiſs a Wench the like, becauſe ſhe is fine, or will believe a Woman when ſhe ſwears to her dying husband that ſhe will ne<g ref="char:EOLhyphen"/>ver marry again, I give and bequeath all my Honors and Title of Hopbodeeboody to remain to them and their heirs for ever. <hi>Item</hi> I make my truſty friend <hi>John Hart,</hi> Knight of the Draw-Cart, and innocent <hi>Luke</hi> Executor of this my laſt Will and Teſtament, and give and bequeath to them the ſum of one pound to be received out of my perſonal Eſtate when they ſhall reſpectively arrive at the Age of diſcretion, publiſhed, declared, and ſealed with a Farthing token, and Kitchinſtuff, this firſt Day of A<g ref="char:EOLhyphen"/>pril. 1674.</p>
+         </div>
+         <div type="mock_character_sketch">
+            <head>His Character.</head>
+            <p>
+               <hi>HOpbodeeboody</hi> was a creature that nature made in a a Hurry, and ſo turn'd him over to fortune, who on<g ref="char:EOLhyphen"/>ly took care to keep him from ſtarving, alledging he had not Knavery enough to be preferred with the reſt of her Children, he was freer by far of his bleſſings than the Pope is, for he would beſtow them at any time for a far<g ref="char:EOLhyphen"/>din token: his beard ſpoke him a Philoſopher, but his Muckender proclaim'd him thrice a child. However the young Wenches lov'd him mightily, firſt becauſe 'tis more natural to them to love fools then wiſe men, for like loves it's like, ſecondly becauſe he returnd them their own wiſhes, and ſaid thoſe prayers aloud in the ſtreets, that they are alvvays muttering in their cloſets, that God vvould ſend them handſome Rich luſty Husbands, fine cloaths, good victuals, ſtrong drink, long ſleeps, and no vvork. He vvould eat butter'd Fiſh vvith both hands at
+<pb n="8" facs="tcp:29379:5"/>once, and car'd not hovv dear VVine vvas if he might but have a Gallon of Ale for a mornings Draught, he hated nothing but ſmall beer and a Groat, and knevv no Authority or puniſhment beyond his Nurſes VVand, vvhilſt he lived he and ſhe vvere inſeperable Compani<g ref="char:EOLhyphen"/>ons in the Day, vvhatever they vvere in the night, and ſo fit one for another, that 'tis pitty and thing but a grave ſhould part them.</p>
+         </div>
+         <div type="list_of_sayings">
+            <list>
+               <head>
+                  <hi>Hopbodeebody's</hi> Sayings.</head>
+               <item>I'ITEMe tell you a good Jeſt,</item>
+               <item>I had not thought,</item>
+               <item>Say ſhe, ſay ſhe,</item>
+               <item>And ſo ſays he,</item>
+               <item>Yours more than my ovvn,</item>
+               <item>Are you there vvith your Bears thought I,</item>
+               <item>Cry Mercy I took you for a Joynt-ſtool;</item>
+               <item>Spend and <hi>God</hi> vvill ſend,</item>
+               <item>I beg your Diverſion Sir.</item>
+               <item>'Tis better to buy off an Enemy than revvard a friend,</item>
+               <item>Images are ITEMay-mens books.</item>
+               <item>She call'd you a vvhore, but did ſhe ſay, ſhe vvould prove you a vvhore?</item>
+               <item>Farevvell and be hang'd that's tvvice good buy.</item>
+               <item>Your humble Trout Sir.</item>
+            </list>
+         </div>
+         <div type="epitaph">
+            <head>His Epitaph.</head>
+            <l>REader! under this heap of ſtones,</l>
+            <l>Lyes old Hopbodeeboody's bones,</l>
+            <l>Who always beg'd for farthing token,</l>
+            <l>And with good Ale was always ſoaken:</l>
+            <l>Long time he liv'd, enough to ſee,</l>
+            <l>Moſt men do ſillier things than he:</l>
+            <l>But now he's gone, 'tis ne'r the worſe,</l>
+            <l>For any Iknow but his Nurſe.</l>
+            <l>Yet ſtill to her his love appears,</l>
+            <l>For all his Bibbs and Muckenders,</l>
+            <l>He left to her as Legacies.</l>
+            <l>Wherewith to dry her bluber'd eyes.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
